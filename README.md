@@ -21,8 +21,8 @@
 
 ```sh
 
-Twitter Account= https://twitter.com/RegSyr
-File Url = https://cloudfil.es/9Dlonedtg6Y
+Twitter Account= [التويتر](https://twitter.com/RegSyr)
+File Url = [الملف](https://cloudfil.es/9Dlonedtg6Y)
 
 ```
 
